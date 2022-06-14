@@ -1,0 +1,5 @@
+Ahora sí hice un programa que lo codifica por mí. No necesito hacerlo más a mano. Si quieres te puedo pasar el programa y así decodificas lo que quieras leer. Algo que podrás notar es que no hay tildes, esto es porque la librería que estoy usando para escribir en el archivo de Output no soporta tildes. Fue difícil escribir sin tildes porque tengo que pensarlo de más cuando estoy escribiendo para activamente quitarle las tiles, así que hice que se pueda escribir con tildes y el programa lo cambie por sus variantes destildadas. No consideré la ü con puntos, ahora que lo pienso, hm. Ahora vuelvo.
+
+Ahora sí, ya la considera, pero sólo la transforma en una u normal, así que si vez pinguino en lugar de pingüino, es porque no estoy seguro qué hacer en esos casos. ¿La cambio por 'ä' (esa anterior no la traduzcas)? Hm, de hecho, eso podría ser totalmente. Bueno, ahora vuelvo.
+
+Nah, olvídalo, se estaba volviendo muy complicado, mejor no cambiaré esa parte. Porque, es que no se usa mucho la ü, y esa parte implicaría modificar mucho el código, para hacer que lo considere como una parte extra, agregando más código, o haciéndolo más general, 
